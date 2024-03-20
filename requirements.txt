@@ -1,0 +1,12 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+stable-baselines3==1.4.0
+torch>=1.11.0+cu113
+numpy~=1.23.2
+gymnasium~=0.29.1
+ipython~=8.5.0
+tqdm~=4.64.1
+scipy~=1.9.1
+matplotlib~=3.5.3
+cloudpickle<1.7.0,>=1.2.0
+minigrid~=2.3.1

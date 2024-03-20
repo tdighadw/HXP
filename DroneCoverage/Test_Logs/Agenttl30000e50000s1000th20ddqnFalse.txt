@@ -1,0 +1,12 @@
+Global timestep 402 ---- Episodes achieved : 100 ---- Mean of reward of the last 100 ep : -0.0225 ---- Mean end with time horizon 4.02 
+Global timestep 924 ---- Episodes achieved : 200 ---- Mean of reward of the last 100 ep : 0.17 ---- Mean end with time horizon 5.22 
+New Best reward ---------------------------------------------- 0.17 
+Global timestep 1345 ---- Episodes achieved : 300 ---- Mean of reward of the last 100 ep : 0.2925 ---- Mean end with time horizon 4.21 
+New Best reward ---------------------------------------------- 0.2925 
+Global timestep 1765 ---- Episodes achieved : 400 ---- Mean of reward of the last 100 ep : 0.3975 ---- Mean end with time horizon 4.2 
+New Best reward ---------------------------------------------- 0.3975 
+Global timestep 2178 ---- Episodes achieved : 500 ---- Mean of reward of the last 100 ep : 0.1375 ---- Mean end with time horizon 4.13 
+Global timestep 2661 ---- Episodes achieved : 600 ---- Mean of reward of the last 100 ep : 1.0325 ---- Mean end with time horizon 4.83 
+New Best reward ---------------------------------------------- 1.0325 
+Global timestep 3179 ---- Episodes achieved : 700 ---- Mean of reward of the last 100 ep : 0.6175 ---- Mean end with time horizon 5.18 
+Global timestep 3669 ---- Episodes achieved : 800 ---- Mean of reward of the last 100 ep : 0.4275 ---- Mean end with time horizon 4.9 

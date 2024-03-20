@@ -1,0 +1,1855 @@
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.4319999999999996
+,Other actions: Best,0.2927999999999996
+,Other actions: Average,"[0.2016000000000001, 0.24959999999999996, 0.2927999999999996]",0.2479999999999999
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.24800000000000005
+,Other actions: Average,"[0.14400000000000002, 0.24800000000000003, 0.24800000000000005]",0.21333333333333337
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.07199999999999998
+,Other actions: Best,0.08639999999999998
+,Other actions: Average,"[0.08639999999999998, 0.05279999999999997, 0.05280000000000003]",0.06399999999999999
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.08639999999999998
+,Other actions: Best,0.028800000000000003
+,Other actions: Average,"[0.0, 0.028800000000000003, 0.028800000000000003]",0.019200000000000002
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.02880000000000002
+,Other actions: Best,0.08639999999999994
+,Other actions: Average,"[0.08639999999999994, 0.038400000000000066, 0.03839999999999999]",0.0544
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.0096
+,Other actions: Best,0.0031999999999999984
+,Other actions: Average,"[0.0, 0.0031999999999999984, 0.0031999999999999984]",0.002133333333333332
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.0072
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0216, 0.0, 0.0072]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.07439999999999992
+,Other actions: Best,0.0743999999999999
+,Other actions: Average,"[0.06719999999999997, 0.0743999999999999, 0.060000000000000005]",0.06719999999999995
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0096
+,Other actions: Best,0.0031999999999999984
+,Other actions: Average,"[0.0, 0.0031999999999999984, 0.0031999999999999984]",0.002133333333333332
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.4319999999999996
+,Other actions: Best,0.2927999999999996
+,Other actions: Average,"[0.2016000000000001, 0.24959999999999996, 0.2927999999999996]",0.2479999999999999
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.24800000000000005
+,Other actions: Average,"[0.14400000000000002, 0.24800000000000003, 0.24800000000000005]",0.21333333333333337
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.07199999999999998
+,Other actions: Best,0.08639999999999998
+,Other actions: Average,"[0.08639999999999998, 0.05279999999999997, 0.05280000000000003]",0.06399999999999999
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.08639999999999998
+,Other actions: Best,0.028800000000000003
+,Other actions: Average,"[0.0, 0.028800000000000003, 0.028800000000000003]",0.019200000000000002
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.02880000000000002
+,Other actions: Best,0.08639999999999994
+,Other actions: Average,"[0.08639999999999994, 0.038400000000000066, 0.03839999999999999]",0.0544
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.0096
+,Other actions: Best,0.0031999999999999984
+,Other actions: Average,"[0.0, 0.0031999999999999984, 0.0031999999999999984]",0.002133333333333332
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.0072
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0216, 0.0, 0.0072]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.07439999999999992
+,Other actions: Best,0.0743999999999999
+,Other actions: Average,"[0.06719999999999997, 0.0743999999999999, 0.060000000000000005]",0.06719999999999995
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0096
+,Other actions: Best,0.0031999999999999984
+,Other actions: Average,"[0.0, 0.0031999999999999984, 0.0031999999999999984]",0.002133333333333332
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.06479999999999998
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0, 0.0216, 0.0216]",0.014400000000000001
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.06479999999999998
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0, 0.0216, 0.0216]",0.014400000000000001
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0216
+,Other actions: Best,0.06479999999999998
+,Other actions: Average,"[0.0, 0.0216, 0.06479999999999998]",0.028799999999999992
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.036
+,Other actions: Best,0.108
+,Other actions: Average,"[0.0, 0.036, 0.108]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.06
+,Other actions: Best,0.18
+,Other actions: Average,"[0.0, 0.06, 0.18]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.12
+,Other actions: Best,0.04
+,Other actions: Average,"[0.0, 0.04, 0.04]",0.02666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.1
+,Other actions: Best,0.3
+,Other actions: Average,"[0.0, 0.1, 0.3]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.0036000000000000003
+,Other actions: Best,0.010799999999999999
+,Other actions: Average,"[0.010799999999999999, 0.0, 0.0036000000000000003]",0.0048
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.06479999999999998
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0, 0.0216, 0.0216]",0.014400000000000001
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.06479999999999998
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0, 0.0216, 0.0216]",0.014400000000000001
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0216
+,Other actions: Best,0.06479999999999998
+,Other actions: Average,"[0.0, 0.0216, 0.06479999999999998]",0.028799999999999992
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.036
+,Other actions: Best,0.108
+,Other actions: Average,"[0.0, 0.036, 0.108]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.06
+,Other actions: Best,0.18
+,Other actions: Average,"[0.0, 0.06, 0.18]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.12
+,Other actions: Best,0.04
+,Other actions: Average,"[0.0, 0.04, 0.04]",0.02666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.1
+,Other actions: Best,0.3
+,Other actions: Average,"[0.0, 0.1, 0.3]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.0036000000000000003
+,Other actions: Best,0.010799999999999999
+,Other actions: Average,"[0.010799999999999999, 0.0, 0.0036000000000000003]",0.0048
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.06479999999999998
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0, 0.0216, 0.0216]",0.014400000000000001
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.06479999999999998
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0, 0.0216, 0.0216]",0.014400000000000001
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0216
+,Other actions: Best,0.06479999999999998
+,Other actions: Average,"[0.0, 0.0216, 0.06479999999999998]",0.028799999999999992
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.036
+,Other actions: Best,0.108
+,Other actions: Average,"[0.0, 0.036, 0.108]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.06
+,Other actions: Best,0.18
+,Other actions: Average,"[0.0, 0.06, 0.18]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.12
+,Other actions: Best,0.04
+,Other actions: Average,"[0.0, 0.04, 0.04]",0.02666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.1
+,Other actions: Best,0.3
+,Other actions: Average,"[0.0, 0.1, 0.3]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.0036000000000000003
+,Other actions: Best,0.010799999999999999
+,Other actions: Average,"[0.010799999999999999, 0.0, 0.0036000000000000003]",0.0048
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.06479999999999998
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0, 0.0216, 0.0216]",0.014400000000000001
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.06479999999999998
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0, 0.0216, 0.0216]",0.014400000000000001
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0216
+,Other actions: Best,0.06479999999999998
+,Other actions: Average,"[0.0, 0.0216, 0.06479999999999998]",0.028799999999999992
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.036
+,Other actions: Best,0.108
+,Other actions: Average,"[0.0, 0.036, 0.108]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.06
+,Other actions: Best,0.18
+,Other actions: Average,"[0.0, 0.06, 0.18]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.12
+,Other actions: Best,0.04
+,Other actions: Average,"[0.0, 0.04, 0.04]",0.02666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.1
+,Other actions: Best,0.3
+,Other actions: Average,"[0.0, 0.1, 0.3]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.0036000000000000003
+,Other actions: Best,0.010799999999999999
+,Other actions: Average,"[0.010799999999999999, 0.0, 0.0036000000000000003]",0.0048
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0216
+,Other actions: Best,0.06479999999999998
+,Other actions: Average,"[0.0, 0.0216, 0.06479999999999998]",0.028799999999999992
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.08639999999999998
+,Other actions: Best,0.028800000000000003
+,Other actions: Average,"[0.0, 0.028800000000000003, 0.028800000000000003]",0.019200000000000002
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.072
+,Other actions: Best,0.216
+,Other actions: Average,"[0.0, 0.072, 0.216]",0.09599999999999999
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.06
+,Other actions: Best,0.18
+,Other actions: Average,"[0.0, 0.06, 0.18]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.08639999999999998
+,Other actions: Best,0.028800000000000006
+,Other actions: Average,"[0.0, 0.028800000000000006, 0.028800000000000006]",0.019200000000000005
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.144
+,Other actions: Best,0.048
+,Other actions: Average,"[0.0, 0.048, 0.048]",0.032
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.24
+,Other actions: Best,0.08
+,Other actions: Average,"[0.0, 0.08, 0.08]",0.05333333333333334
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.2
+,Other actions: Best,0.6
+,Other actions: Average,"[0.0, 0.2, 0.6]",0.26666666666666666
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.036
+,Other actions: Best,0.108
+,Other actions: Average,"[0.0, 0.108, 0.036]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0216
+,Other actions: Best,0.06479999999999998
+,Other actions: Average,"[0.0, 0.0216, 0.06479999999999998]",0.028799999999999992
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.108
+,Other actions: Best,0.036
+,Other actions: Average,"[0.0, 0.036, 0.036]",0.023999999999999997
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.18
+,Other actions: Best,0.06
+,Other actions: Average,"[0.0, 0.06, 0.06]",0.04
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.08639999999999998
+,Other actions: Best,0.028800000000000003
+,Other actions: Average,"[0.0, 0.028800000000000003, 0.028800000000000003]",0.019200000000000002
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.072
+,Other actions: Best,0.216
+,Other actions: Average,"[0.0, 0.072, 0.216]",0.09599999999999999
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0432
+,Other actions: Best,0.014399999999999998
+,Other actions: Average,"[0.0, 0.014399999999999998, 0.014399999999999998]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.072
+,Other actions: Best,0.024
+,Other actions: Average,"[0.0, 0.024, 0.024]",0.016
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.06
+,Other actions: Best,0.18
+,Other actions: Average,"[0.0, 0.06, 0.18]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.3
+,Other actions: Best,0.1
+,Other actions: Average,"[0.0, 0.1, 0.1]",0.06666666666666667
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.08639999999999998
+,Other actions: Best,0.028800000000000006
+,Other actions: Average,"[0.0, 0.028800000000000006, 0.028800000000000006]",0.019200000000000005
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.144
+,Other actions: Best,0.048
+,Other actions: Average,"[0.0, 0.048, 0.048]",0.032
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.24
+,Other actions: Best,0.08
+,Other actions: Average,"[0.0, 0.08, 0.08]",0.05333333333333334
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.2
+,Other actions: Best,0.6
+,Other actions: Average,"[0.0, 0.2, 0.6]",0.26666666666666666
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.036
+,Other actions: Best,0.108
+,Other actions: Average,"[0.0, 0.108, 0.036]",0.047999999999999994
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.36
+,Other actions: Best,0.12
+,Other actions: Average,"[0.0, 0.12, 0.12]",0.08
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.6
+,Other actions: Best,0.2
+,Other actions: Average,"[0.0, 0.2, 0.2]",0.13333333333333333
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.4319999999999996
+,Other actions: Best,0.2927999999999996
+,Other actions: Average,"[0.2016000000000001, 0.24959999999999996, 0.2927999999999996]",0.2479999999999999
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.24800000000000005
+,Other actions: Average,"[0.14400000000000002, 0.24800000000000003, 0.24800000000000005]",0.21333333333333337
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.07199999999999998
+,Other actions: Best,0.08639999999999998
+,Other actions: Average,"[0.08639999999999998, 0.05279999999999997, 0.05280000000000003]",0.06399999999999999
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.08639999999999998
+,Other actions: Best,0.028800000000000003
+,Other actions: Average,"[0.0, 0.028800000000000003, 0.028800000000000003]",0.019200000000000002
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.02880000000000002
+,Other actions: Best,0.08639999999999994
+,Other actions: Average,"[0.08639999999999994, 0.038400000000000066, 0.03839999999999999]",0.0544
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.0096
+,Other actions: Best,0.0031999999999999984
+,Other actions: Average,"[0.0, 0.0031999999999999984, 0.0031999999999999984]",0.002133333333333332
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.0072
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0216, 0.0, 0.0072]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.07439999999999992
+,Other actions: Best,0.0743999999999999
+,Other actions: Average,"[0.06719999999999997, 0.0743999999999999, 0.060000000000000005]",0.06719999999999995
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0096
+,Other actions: Best,0.0031999999999999984
+,Other actions: Average,"[0.0, 0.0031999999999999984, 0.0031999999999999984]",0.002133333333333332
+
+EXH,,avoid_holes,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.5895999999999983
+,Other actions: Best,0.8799999999999972
+,Other actions: Average,"[0.8799999999999972, 0.812000000000003, 0.7903999999999956]",0.8274666666666652
+
+EXH,,avoid_holes,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3600000000000006
+,Other actions: Best,0.5040000000000017
+,Other actions: Average,"[0.5040000000000017, 0.288, 0.2879999999999999]",0.3600000000000005
+
+EXH,,avoid_holes,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.504
+,Other actions: Best,0.40800000000000003
+,Other actions: Average,"[0.36000000000000004, 0.40800000000000003, 0.4079999999999999]",0.39199999999999996
+
+EXH,,avoid_holes,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.3600000000000004
+,Other actions: Average,"[0.3600000000000004, 0.31999999999999984, 0.32000000000000095]",0.3333333333333337
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.41439999999999855
+,Other actions: Best,0.3747199999999994
+,Other actions: Average,"[0.2982399999999975, 0.3747199999999994, 0.35744000000000054]",0.34346666666666587
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.23583999999999936
+,Other actions: Best,0.3519999999999989
+,Other actions: Average,"[0.3519999999999989, 0.32480000000000125, 0.3161599999999982]",0.33098666666666615
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.18720000000000023
+,Other actions: Best,0.25344000000000066
+,Other actions: Average,"[0.25344000000000066, 0.14687999999999998, 0.14687999999999998]",0.18240000000000023
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.2016
+,Other actions: Best,0.1632
+,Other actions: Average,"[0.14400000000000002, 0.1632, 0.16319999999999998]",0.15680000000000002
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.3903999999999979
+,Other actions: Best,0.3648000000000005
+,Other actions: Average,"[0.30399999999999755, 0.36479999999999957, 0.3648000000000005]",0.3445333333333325
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.3295999999999985
+,Other actions: Best,0.3705599999999987
+,Other actions: Average,"[0.3705599999999987, 0.33344000000000107, 0.23999999999999916]",0.31466666666666626
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.16128000000000006
+,Other actions: Best,0.23040000000000047
+,Other actions: Average,"[0.23040000000000047, 0.1305600000000001, 0.13055999999999993]",0.16384000000000018
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.20832000000000078
+,Other actions: Best,0.09823999999999997
+,Other actions: Average,"[0.08640000000000002, 0.09823999999999944, 0.09823999999999997]",0.09429333333333316
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.24288000000000054
+,Other actions: Best,0.18240000000000067
+,Other actions: Average,"[0.18240000000000067, 0.14176000000000005, 0.14176000000000002]",0.15530666666666693
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.38175999999999793
+,Other actions: Best,0.3619200000000005
+,Other actions: Average,"[0.30399999999999755, 0.3619199999999996, 0.3619200000000005]",0.34261333333333255
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.3699199999999985
+,Other actions: Best,0.4036799999999987
+,Other actions: Average,"[0.4036799999999987, 0.36944000000000105, 0.30335999999999913]",0.35882666666666635
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.2548800000000001
+,Other actions: Best,0.22176000000000048
+,Other actions: Average,"[0.22176000000000048, 0.15888000000000002, 0.15887999999999994]",0.17984000000000014
+
+EXH,,avoid_holes,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.5895999999999983
+,Other actions: Best,0.8799999999999972
+,Other actions: Average,"[0.8799999999999972, 0.812000000000003, 0.7903999999999956]",0.8274666666666652
+
+EXH,,avoid_holes,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3600000000000006
+,Other actions: Best,0.5040000000000017
+,Other actions: Average,"[0.5040000000000017, 0.288, 0.2879999999999999]",0.3600000000000005
+
+EXH,,avoid_holes,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.504
+,Other actions: Best,0.40800000000000003
+,Other actions: Average,"[0.36000000000000004, 0.40800000000000003, 0.4079999999999999]",0.39199999999999996
+
+EXH,,avoid_holes,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.3600000000000004
+,Other actions: Average,"[0.3600000000000004, 0.31999999999999984, 0.32000000000000095]",0.3333333333333337
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.5567999999999977
+,Other actions: Best,0.540479999999999
+,Other actions: Average,"[0.4473599999999962, 0.540479999999999, 0.5145600000000008]",0.5007999999999987
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.353759999999999
+,Other actions: Best,0.5279999999999984
+,Other actions: Average,"[0.5279999999999984, 0.4872000000000018, 0.47423999999999733]",0.49647999999999914
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.24480000000000035
+,Other actions: Best,0.336960000000001
+,Other actions: Average,"[0.336960000000001, 0.19391999999999998, 0.19391999999999998]",0.2416000000000003
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.3024
+,Other actions: Best,0.24480000000000002
+,Other actions: Average,"[0.21600000000000003, 0.24480000000000002, 0.24479999999999993]",0.2352
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.35568000000000116
+,Other actions: Best,0.1617599999999999
+,Other actions: Average,"[0.12960000000000002, 0.16175999999999913, 0.1617599999999999]",0.1510399999999997
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.5049599999999977
+,Other actions: Best,0.523199999999999
+,Other actions: Average,"[0.4473599999999962, 0.523199999999999, 0.4972800000000008]",0.48927999999999866
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.399839999999999
+,Other actions: Best,0.5913599999999984
+,Other actions: Average,"[0.5913599999999984, 0.5332800000000018, 0.5203199999999973]",0.5483199999999991
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.21600000000000036
+,Other actions: Best,0.302400000000001
+,Other actions: Average,"[0.302400000000001, 0.17279999999999998, 0.17279999999999995]",0.2160000000000003
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.3427200000000008
+,Other actions: Best,0.273600000000001
+,Other actions: Average,"[0.273600000000001, 0.20544000000000004, 0.20544]",0.22816000000000036
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.5366399999999969
+,Other actions: Best,0.5308800000000008
+,Other actions: Average,"[0.45599999999999624, 0.5308799999999994, 0.5308800000000008]",0.5059199999999988
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.5212799999999976
+,Other actions: Best,0.577919999999998
+,Other actions: Average,"[0.577919999999998, 0.5241600000000015, 0.4022399999999987]",0.5014399999999993
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.2899200000000001
+,Other actions: Best,0.2966400000000007
+,Other actions: Average,"[0.2966400000000007, 0.19552000000000008, 0.19551999999999992]",0.2292266666666669
+
+EXH,,avoid_holes,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.5895999999999983
+,Other actions: Best,0.8799999999999972
+,Other actions: Average,"[0.8799999999999972, 0.812000000000003, 0.7903999999999956]",0.8274666666666652
+
+EXH,,avoid_holes,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3600000000000006
+,Other actions: Best,0.5040000000000017
+,Other actions: Average,"[0.5040000000000017, 0.288, 0.2879999999999999]",0.3600000000000005
+
+EXH,,avoid_holes,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.504
+,Other actions: Best,0.40800000000000003
+,Other actions: Average,"[0.36000000000000004, 0.40800000000000003, 0.4079999999999999]",0.39199999999999996
+
+EXH,,avoid_holes,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.3600000000000004
+,Other actions: Average,"[0.3600000000000004, 0.31999999999999984, 0.32000000000000095]",0.3333333333333337
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.41439999999999855
+,Other actions: Best,0.3747199999999994
+,Other actions: Average,"[0.2982399999999975, 0.3747199999999994, 0.35744000000000054]",0.34346666666666587
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.23583999999999936
+,Other actions: Best,0.3519999999999989
+,Other actions: Average,"[0.3519999999999989, 0.32480000000000125, 0.3161599999999982]",0.33098666666666615
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.18720000000000023
+,Other actions: Best,0.25344000000000066
+,Other actions: Average,"[0.25344000000000066, 0.14687999999999998, 0.14687999999999998]",0.18240000000000023
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.2016
+,Other actions: Best,0.1632
+,Other actions: Average,"[0.14400000000000002, 0.1632, 0.16319999999999998]",0.15680000000000002
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.3903999999999979
+,Other actions: Best,0.3648000000000005
+,Other actions: Average,"[0.30399999999999755, 0.36479999999999957, 0.3648000000000005]",0.3445333333333325
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.3295999999999985
+,Other actions: Best,0.3705599999999987
+,Other actions: Average,"[0.3705599999999987, 0.33344000000000107, 0.23999999999999916]",0.31466666666666626
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.16128000000000006
+,Other actions: Best,0.23040000000000047
+,Other actions: Average,"[0.23040000000000047, 0.1305600000000001, 0.13055999999999993]",0.16384000000000018
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.20832000000000078
+,Other actions: Best,0.09823999999999997
+,Other actions: Average,"[0.08640000000000002, 0.09823999999999944, 0.09823999999999997]",0.09429333333333316
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.24288000000000054
+,Other actions: Best,0.18240000000000067
+,Other actions: Average,"[0.18240000000000067, 0.14176000000000005, 0.14176000000000002]",0.15530666666666693
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.38175999999999793
+,Other actions: Best,0.3619200000000005
+,Other actions: Average,"[0.30399999999999755, 0.3619199999999996, 0.3619200000000005]",0.34261333333333255
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.3699199999999985
+,Other actions: Best,0.4036799999999987
+,Other actions: Average,"[0.4036799999999987, 0.36944000000000105, 0.30335999999999913]",0.35882666666666635
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.2548800000000001
+,Other actions: Best,0.22176000000000048
+,Other actions: Average,"[0.22176000000000048, 0.15888000000000002, 0.15887999999999994]",0.17984000000000014
+
+EXH,,avoid_holes,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.5895999999999983
+,Other actions: Best,0.8799999999999972
+,Other actions: Average,"[0.8799999999999972, 0.812000000000003, 0.7903999999999956]",0.8274666666666652
+
+EXH,,avoid_holes,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3600000000000006
+,Other actions: Best,0.5040000000000017
+,Other actions: Average,"[0.5040000000000017, 0.288, 0.2879999999999999]",0.3600000000000005
+
+EXH,,avoid_holes,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.504
+,Other actions: Best,0.40800000000000003
+,Other actions: Average,"[0.36000000000000004, 0.40800000000000003, 0.4079999999999999]",0.39199999999999996
+
+EXH,,avoid_holes,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.3600000000000004
+,Other actions: Average,"[0.3600000000000004, 0.31999999999999984, 0.32000000000000095]",0.3333333333333337
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.6279999999999974
+,Other actions: Best,0.6233599999999988
+,Other actions: Average,"[0.5219199999999956, 0.6233599999999988, 0.5931200000000009]",0.579466666666665
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.4127199999999988
+,Other actions: Best,0.615999999999998
+,Other actions: Average,"[0.615999999999998, 0.5684000000000021, 0.5532799999999969]",0.5792266666666657
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.2736000000000004
+,Other actions: Best,0.37872000000000117
+,Other actions: Average,"[0.37872000000000117, 0.21743999999999997, 0.21743999999999997]",0.2712000000000004
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.3528
+,Other actions: Best,0.2856
+,Other actions: Average,"[0.252, 0.2856, 0.2855999999999999]",0.2744
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.3933600000000013
+,Other actions: Best,0.1815199999999999
+,Other actions: Average,"[0.1512, 0.181519999999999, 0.1815199999999999]",0.17141333333333297
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.5891199999999974
+,Other actions: Best,0.6103999999999988
+,Other actions: Average,"[0.5219199999999956, 0.6103999999999988, 0.5801600000000009]",0.5708266666666652
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.4472799999999988
+,Other actions: Best,0.663519999999998
+,Other actions: Average,"[0.663519999999998, 0.602960000000002, 0.5878399999999968]",0.6181066666666656
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.2520000000000004
+,Other actions: Best,0.35280000000000117
+,Other actions: Average,"[0.35280000000000117, 0.20159999999999997, 0.20159999999999995]",0.2520000000000004
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.39264000000000093
+,Other actions: Best,0.31920000000000115
+,Other actions: Average,"[0.31920000000000115, 0.23728000000000005, 0.23728]",0.264586666666667
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.6140799999999962
+,Other actions: Best,0.6153600000000008
+,Other actions: Average,"[0.5319999999999956, 0.6153599999999991, 0.6153600000000008]",0.5875733333333318
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.5969599999999973
+,Other actions: Best,0.6650399999999977
+,Other actions: Average,"[0.6650399999999977, 0.6015200000000017, 0.45167999999999847]",0.572746666666666
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.3074400000000001
+,Other actions: Best,0.3340800000000008
+,Other actions: Average,"[0.3340800000000008, 0.21384000000000009, 0.21383999999999986]",0.2539200000000002
+
+EXH,,avoid_holes,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.5895999999999983
+,Other actions: Best,0.8799999999999972
+,Other actions: Average,"[0.8799999999999972, 0.812000000000003, 0.7903999999999956]",0.8274666666666652
+
+EXH,,avoid_holes,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3600000000000006
+,Other actions: Best,0.5040000000000017
+,Other actions: Average,"[0.5040000000000017, 0.288, 0.2879999999999999]",0.3600000000000005
+
+EXH,,avoid_holes,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.504
+,Other actions: Best,0.40800000000000003
+,Other actions: Average,"[0.36000000000000004, 0.40800000000000003, 0.4079999999999999]",0.39199999999999996
+
+EXH,,avoid_holes,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.3600000000000004
+,Other actions: Average,"[0.3600000000000004, 0.31999999999999984, 0.32000000000000095]",0.3333333333333337
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.41439999999999855
+,Other actions: Best,0.3747199999999994
+,Other actions: Average,"[0.2982399999999975, 0.3747199999999994, 0.35744000000000054]",0.34346666666666587
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.23583999999999936
+,Other actions: Best,0.3519999999999989
+,Other actions: Average,"[0.3519999999999989, 0.32480000000000125, 0.3161599999999982]",0.33098666666666615
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.18720000000000023
+,Other actions: Best,0.25344000000000066
+,Other actions: Average,"[0.25344000000000066, 0.14687999999999998, 0.14687999999999998]",0.18240000000000023
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.2016
+,Other actions: Best,0.1632
+,Other actions: Average,"[0.14400000000000002, 0.1632, 0.16319999999999998]",0.15680000000000002
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.3903999999999979
+,Other actions: Best,0.3648000000000005
+,Other actions: Average,"[0.30399999999999755, 0.36479999999999957, 0.3648000000000005]",0.3445333333333325
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.3295999999999985
+,Other actions: Best,0.3705599999999987
+,Other actions: Average,"[0.3705599999999987, 0.33344000000000107, 0.23999999999999916]",0.31466666666666626
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.16128000000000006
+,Other actions: Best,0.23040000000000047
+,Other actions: Average,"[0.23040000000000047, 0.1305600000000001, 0.13055999999999993]",0.16384000000000018
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.20832000000000078
+,Other actions: Best,0.09823999999999997
+,Other actions: Average,"[0.08640000000000002, 0.09823999999999944, 0.09823999999999997]",0.09429333333333316
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.24288000000000054
+,Other actions: Best,0.18240000000000067
+,Other actions: Average,"[0.18240000000000067, 0.14176000000000005, 0.14176000000000002]",0.15530666666666693
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.38175999999999793
+,Other actions: Best,0.3619200000000005
+,Other actions: Average,"[0.30399999999999755, 0.3619199999999996, 0.3619200000000005]",0.34261333333333255
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.3699199999999985
+,Other actions: Best,0.4036799999999987
+,Other actions: Average,"[0.4036799999999987, 0.36944000000000105, 0.30335999999999913]",0.35882666666666635
+
+EXH,,"['redefined_predicate', 'avoid_holes']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.2548800000000001
+,Other actions: Best,0.22176000000000048
+,Other actions: Average,"[0.22176000000000048, 0.15888000000000002, 0.15887999999999994]",0.17984000000000014
+
+EXH,,win,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,win,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.216
+,Other actions: Best,0.072
+,Other actions: Average,"[0.0, 0.072, 0.072]",0.047999999999999994
+
+EXH,,win,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.4319999999999996
+,Other actions: Best,0.2927999999999996
+,Other actions: Average,"[0.2016000000000001, 0.24959999999999996, 0.2927999999999996]",0.2479999999999999
+
+EXH,,win,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.24800000000000005
+,Other actions: Average,"[0.14400000000000002, 0.24800000000000003, 0.24800000000000005]",0.21333333333333337
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.07775999999999998
+,Other actions: Best,0.025920000000000006
+,Other actions: Average,"[0.0, 0.025920000000000006, 0.025920000000000006]",0.017280000000000004
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.05183999999999999
+,Other actions: Best,0.017280000000000004
+,Other actions: Average,"[0.0, 0.017280000000000004, 0.017280000000000004]",0.011520000000000002
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.1296
+,Other actions: Best,0.06048000000000001
+,Other actions: Average,"[0.05183999999999998, 0.06047999999999998, 0.06048000000000001]",0.05759999999999999
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.17279999999999984
+,Other actions: Best,0.11711999999999985
+,Other actions: Average,"[0.08064000000000004, 0.09983999999999998, 0.11711999999999985]",0.09919999999999995
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.07775999999999998
+,Other actions: Best,0.025920000000000006
+,Other actions: Average,"[0.0, 0.025920000000000006, 0.025920000000000006]",0.017280000000000004
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.12095999999999993
+,Other actions: Best,0.09504000000000008
+,Other actions: Average,"[0.09504000000000008, 0.08639999999999994, 0.08639999999999995]",0.08927999999999998
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.0864
+,Other actions: Best,0.0288
+,Other actions: Average,"[0.0, 0.0288, 0.0288]",0.0192
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.07775999999999998
+,Other actions: Best,0.025920000000000006
+,Other actions: Average,"[0.0, 0.025920000000000006, 0.025920000000000006]",0.017280000000000004
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.06047999999999992
+,Other actions: Best,0.12096000000000019
+,Other actions: Average,"[0.12096000000000019, 0.08351999999999983, 0.10944000000000004]",0.10464000000000002
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.05759999999999999
+,Other actions: Best,0.025920000000000002
+,Other actions: Average,"[0.0057599999999999995, 0.025920000000000002, 0.025920000000000002]",0.0192
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.05183999999999998
+,Other actions: Best,0.017280000000000004
+,Other actions: Average,"[0.0, 0.017280000000000004, 0.017280000000000004]",0.011520000000000002
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.05471999999999994
+,Other actions: Best,0.07775999999999994
+,Other actions: Average,"[0.07775999999999994, 0.06143999999999991, 0.07007999999999993]",0.06975999999999993
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.008639999999999998
+,Other actions: Best,0.0057599999999999995
+,Other actions: Average,"[0.004800000000000001, 0.0057599999999999995, 0.0048]",0.0051199999999999996
+
+EXH,,"['redefined_predicate', 'win']",Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.051600000000000014
+,Other actions: Best,0.0619199999999999
+,Other actions: Average,"[0.0619199999999999, 0.030960000000000057, 0.048720000000000006]",0.04719999999999999
+
+EXH,,avoid_holes,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.5895999999999983
+,Other actions: Best,0.8799999999999972
+,Other actions: Average,"[0.8799999999999972, 0.812000000000003, 0.7903999999999956]",0.8274666666666652
+
+EXH,,avoid_holes,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.3600000000000006
+,Other actions: Best,0.5040000000000017
+,Other actions: Average,"[0.5040000000000017, 0.288, 0.2879999999999999]",0.3600000000000005
+
+EXH,,avoid_holes,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.504
+,Other actions: Best,0.40800000000000003
+,Other actions: Average,"[0.36000000000000004, 0.40800000000000003, 0.4079999999999999]",0.39199999999999996
+
+EXH,,avoid_holes,Proportion
+"(24, 23, 11, 11, 10)-2",Action : 2,0.6
+,Other actions: Best,0.3600000000000004
+,Other actions: Average,"[0.3600000000000004, 0.31999999999999984, 0.32000000000000095]",0.3333333333333337
+
+EXH,,redefined_predicate,Proportion
+"(20, 19, 32, 7, 10)-2",Action : 2,0.12959999999999997
+,Other actions: Best,0.04320000000000001
+,Other actions: Average,"[0.0, 0.04320000000000001, 0.04320000000000001]",0.028800000000000006
+
+EXH,,redefined_predicate,Proportion
+"(21, 20, 9, 8, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(22, 21, 9, 9, 10)-2",Action : 2,0.07199999999999998
+,Other actions: Best,0.08639999999999998
+,Other actions: Average,"[0.08639999999999998, 0.05279999999999997, 0.05280000000000003]",0.06399999999999999
+
+EXH,,redefined_predicate,Proportion
+"(23, 22, 35, 10, 10)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(16, 15, 2, 3, 10)-2",Action : 2,0.08639999999999998
+,Other actions: Best,0.028800000000000003
+,Other actions: Average,"[0.0, 0.028800000000000003, 0.028800000000000003]",0.019200000000000002
+
+EXH,,redefined_predicate,Proportion
+"(17, 16, 5, 4, 10)-3",Action : 3,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,redefined_predicate,Proportion
+"(18, 17, 5, 5, 10)-2",Action : 2,0.02880000000000002
+,Other actions: Best,0.08639999999999994
+,Other actions: Average,"[0.08639999999999994, 0.038400000000000066, 0.03839999999999999]",0.0544
+
+EXH,,redefined_predicate,Proportion
+"(19, 18, 32, 6, 10)-2",Action : 2,0.0096
+,Other actions: Best,0.0031999999999999984
+,Other actions: Average,"[0.0, 0.0031999999999999984, 0.0031999999999999984]",0.002133333333333332
+
+EXH,,redefined_predicate,Proportion
+"(13, 13, 28, 0, 10)-1",Action : 1,0.0072
+,Other actions: Best,0.0216
+,Other actions: Average,"[0.0216, 0.0, 0.0072]",0.0096
+
+EXH,,redefined_predicate,Proportion
+"(14, 13, 28, 1, 10)-2",Action : 2,0.07439999999999992
+,Other actions: Best,0.0743999999999999
+,Other actions: Average,"[0.06719999999999997, 0.0743999999999999, 0.060000000000000005]",0.06719999999999995
+
+EXH,,redefined_predicate,Proportion
+"(15, 14, 2, 2, 10)-2",Action : 2,0.0096
+,Other actions: Best,0.0031999999999999984
+,Other actions: Average,"[0.0, 0.0031999999999999984, 0.0031999999999999984]",0.002133333333333332
+

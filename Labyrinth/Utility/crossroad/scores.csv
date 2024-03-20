@@ -1,0 +1,130 @@
+EXH,,reach_exit,Proportion
+3-1,Action : 1,1.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,reach_exit,Proportion
+10-1,Action : 1,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 0.0]",0.6666666666666666
+
+EXH,,reach_exit,Proportion
+17-1,Action : 1,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+24-2,Action : 2,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+25-2,Action : 2,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+26-2,Action : 2,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+30-0,Action : 0,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+29-0,Action : 0,1.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,reach_exit,Proportion
+28-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+21-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 0.0]",0.6666666666666666
+
+EXH,,reach_exit,Proportion
+14-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+30-0,Action : 0,0.03125
+,Other actions: Best,0.03125
+,Other actions: Average,"[0.03125, 0.03125, 0.03125]",0.03125
+
+EXH,,reach_exit,Proportion
+29-0,Action : 0,0.1875
+,Other actions: Best,0.03125
+,Other actions: Average,"[0.03125, 0.03125, 0.03125]",0.03125
+
+EXH,,reach_exit,Proportion
+28-3,Action : 3,0.5
+,Other actions: Best,0.3125
+,Other actions: Average,"[0.3125, 0.3125, 0.1875]",0.2708333333333333
+
+EXH,,reach_exit,Proportion
+21-3,Action : 3,0.8125
+,Other actions: Best,0.6875
+,Other actions: Average,"[0.6875, 0.5, 0.34375]",0.5104166666666666
+
+EXH,,reach_exit,Proportion
+14-3,Action : 3,0.96875
+,Other actions: Best,0.9375
+,Other actions: Average,"[0.9375, 0.8125, 0.9375]",0.8958333333333334
+
+EXH,,reach_exit,Proportion
+30-0,Action : 0,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+29-0,Action : 0,1.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,reach_exit,Proportion
+28-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+21-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 0.0]",0.6666666666666666
+
+EXH,,reach_exit,Proportion
+14-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+30-0,Action : 0,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+29-0,Action : 0,1.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,reach_exit,Proportion
+28-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+
+EXH,,reach_exit,Proportion
+21-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 0.0]",0.6666666666666666
+
+EXH,,reach_exit,Proportion
+14-3,Action : 3,1.0
+,Other actions: Best,1.0
+,Other actions: Average,"[1.0, 1.0, 1.0]",1.0
+

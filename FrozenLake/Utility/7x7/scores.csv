@@ -1,0 +1,100 @@
+EXH,,holes,Proportion
+"(3, 10, 22)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(4, 3, 22)-1",Action : 1,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(11, 4, 15)-1",Action : 1,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(18, 11, 15)-1",Action : 1,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(25, 18, 15)-1",Action : 1,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(12, 5, 13)-0",Action : 0,0.0008000000000000003
+,Other actions: Best,0.6008
+,Other actions: Average,"[0.20240000000000002, 0.6008, 0.2]",0.33440000000000003
+
+EXH,,holes,Proportion
+"(11, 12, 16)-2",Action : 2,0.0011200000000000003
+,Other actions: Best,0.0020800000000000003
+,Other actions: Average,"[0.0006400000000000003, 0.0020800000000000003, 0.00016000000000000007]",0.0009600000000000002
+
+EXH,,holes,Proportion
+"(12, 11, 6)-0",Action : 0,0.0008000000000000003
+,Other actions: Best,0.6008
+,Other actions: Average,"[0.20240000000000002, 0.6008, 0.2]",0.33440000000000003
+
+EXH,,holes,Proportion
+"(11, 12, 13)-2",Action : 2,0.0011200000000000003
+,Other actions: Best,0.0020800000000000003
+,Other actions: Average,"[0.0006400000000000003, 0.0020800000000000003, 0.00016000000000000007]",0.0009600000000000002
+
+EXH,,holes,Proportion
+"(18, 11, 16)-1",Action : 1,0.0032000000000000006
+,Other actions: Best,0.0031999999999999997
+,Other actions: Average,"[0.0008000000000000003, 0.0031999999999999997, 0.0008000000000000003]",0.0016
+
+EXH,,holes,Proportion
+"(1, 1, 15, 1, 12)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(2, 1, 15, 2, 12)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(3, 2, 6, 3, 12)-2",Action : 2,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(4, 3, 6, 4, 12)-1",Action : 1,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(11, 4, 16, 5, 12)-1",Action : 1,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(18, 11, 16, 6, 12)-1",Action : 1,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(19, 18, 13, 7, 12)-0",Action : 0,0.0
+,Other actions: Best,0.6
+,Other actions: Average,"[0.2, 0.6, 0.2]",0.3333333333333333
+
+EXH,,holes,Proportion
+"(18, 19, 20, 6, 12)-1",Action : 1,0.0
+,Other actions: Best,0.0
+,Other actions: Average,"[0.0, 0.0, 0.0]",0.0
+
+EXH,,holes,Proportion
+"(25, 18, 23, 7, 12)-1",Action : 1,0.0006400000000000002
+,Other actions: Best,0.0006400000000000004
+,Other actions: Average,"[0.0006400000000000004, 0.00016000000000000007, 0.00016000000000000007]",0.0003200000000000002
+
+EXH,,holes,Proportion
+"(32, 25, 45, 8, 12)-1",Action : 1,0.0011200000000000006
+,Other actions: Best,0.0033600000000000006
+,Other actions: Average,"[0.0033600000000000006, 0.0, 0.0011200000000000006]",0.0014933333333333337
+
